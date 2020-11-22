@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstCPP",
+			"Path": "C:\\Users\\Khush\\Documents\\GitHub\\Guzman_BallMaze\\FirstCPP\\Source\\FirstCPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstCPPEditor",
+			"Path": "C:\\Users\\Khush\\Documents\\GitHub\\Guzman_BallMaze\\FirstCPP\\Source\\FirstCPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
