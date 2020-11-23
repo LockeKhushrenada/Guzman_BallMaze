@@ -1889,3 +1889,322 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.22-12.35.50:690][  2]LogAssetRegistry: Asset discovery search completed in 492.8856 seconds
 [2020.11.22-12.35.50:773][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.028409 seconds (updated 0 objects)
 [2020.11.22-12.35.51:695][  6]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-00.23.23:170][600]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-04.40.54:266][648]LogSlate: Window 'Message Log' being destroyed
+[2020.11.23-04.40.57:174][648]LogSlate: Window 'Message Log' being destroyed
+[2020.11.23-04.44.26:632][312]LogSlate: Took 0.603139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.23-04.45.02:633][312]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.11.23-04.45.02:655][312]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.11.23-04.45.04:960][312]LogSlate: Took 0.384861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.23-04.45.48:193][741]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.11.23-04.46.20:581][705]Running C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/FirstCPP.uproject" -game -rocket -progress
+[2020.11.23-04.46.25:800][705]Discovering modules, targets and source code for project...
+[2020.11.23-04.48.33:284][705]Binding IntelliSense data...
+[2020.11.23-04.48.48:704][705]WARNING: Library 'winmm.lib' was not resolvable to a file when used in Module 'MidiInterface', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning.
+[2020.11.23-04.49.45:376][705]Binding IntelliSense data... 50%
+[2020.11.23-04.49.45:557][705]Binding IntelliSense data... 100%
+[2020.11.23-04.49.46:262][705]Writing project files...
+[2020.11.23-04.51.30:295][705]Writing project files... 67%
+[2020.11.23-04.51.30:584][705]Writing project files... 100%
+[2020.11.23-04.52.45:047][705]Candidate modules for hot reload:
+[2020.11.23-04.52.45:047][705]  FirstCPP
+[2020.11.23-04.52.45:048][705]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FirstCPP,2310 FirstCPPEditor Win64 Development -Project="C:/Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/FirstCPP.uproject" "C:/Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/FirstCPP.uproject"  -IgnoreJunk]
+[2020.11.23-05.05.32:180][705]CompilerResultsLog: New page: Compilation - Nov 22, 2020, 5:05:29 PM
+[2020.11.23-05.05.32:705][705]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Khush\Documents\GitHub\Guzman_BallMaze).
+[2020.11.23-05.05.32:722][705]CompilerResultsLog: Creating makefile for FirstCPPEditor (no existing makefile)
+[2020.11.23-05.05.32:722][705]CompilerResultsLog: Parsing headers for FirstCPPEditor
+[2020.11.23-05.05.32:722][705]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\FirstCPP.uproject" "C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\FirstCPPEditor\Development\FirstCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Khush\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.11.23-05.05.32:722][705]CompilerResultsLog: Reflection code generated for FirstCPPEditor in 263.4186607 seconds
+[2020.11.23-05.05.32:722][705]CompilerResultsLog: Building FirstCPPEditor...
+[2020.11.23-05.05.32:722][705]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.23-05.05.32:722][705]CompilerResultsLog: Building 9 actions with 8 processes...
+[2020.11.23-05.05.32:722][705]CompilerResultsLog:   [1/9] FirstCPPGameModeBase.cpp
+[2020.11.23-05.05.32:722][705]CompilerResultsLog:   [2/9] FirstCPP.cpp
+[2020.11.23-05.05.32:722][705]CompilerResultsLog:   [3/9] BasePlayer.cpp
+[2020.11.23-05.05.32:722][705]CompilerResultsLog:   [4/9] FirstCPP.init.gen.cpp
+[2020.11.23-05.05.32:722][705]CompilerResultsLog:   [5/9] BasePlayer.gen.cpp
+[2020.11.23-05.05.32:722][705]CompilerResultsLog:   [6/9] FirstCPPGameModeBase.gen.cpp
+[2020.11.23-05.05.32:722][705]CompilerResultsLog:   [7/9] UE4Editor-FirstCPP-2310.lib
+[2020.11.23-05.05.32:722][705]CompilerResultsLog:      Creating library C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\UE4Editor-FirstCPP-2310.lib and object C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\UE4Editor-FirstCPP-2310.exp
+[2020.11.23-05.05.32:722][705]CompilerResultsLog:   [8/9] UE4Editor-FirstCPP-2310.dll
+[2020.11.23-05.05.32:722][705]CompilerResultsLog:      Creating library C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\UE4Editor-FirstCPP-2310.suppressed.lib and object C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\UE4Editor-FirstCPP-2310.suppressed.exp
+[2020.11.23-05.05.32:722][705]CompilerResultsLog:   [9/9] FirstCPPEditor.target
+[2020.11.23-05.05.32:722][705]CompilerResultsLog: Total time in Parallel executor: 468.87 seconds
+[2020.11.23-05.05.32:722][705]CompilerResultsLog: Total execution time: 762.36 seconds
+[2020.11.23-05.05.32:819][705]LogMainFrame: MainFrame: Module compiling took 781.177 seconds
+[2020.11.23-05.06.07:227][705]LogClass: Could not find existing class BasePlayer in package /Script/FirstCPP for HotReload, assuming new class
+[2020.11.23-05.06.11:994][705]LogContentBrowser: Native class hierarchy updated for 'FirstCPP' in 0.8157 seconds. Added 2 classes and 2 folders.
+[2020.11.23-05.06.12:124][705]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.11.23-05.06.34:973][705]LogContentBrowser: Native class hierarchy populated in 1.7335 seconds. Added 3429 classes and 823 folders.
+[2020.11.23-05.06.35:657][705]Display: HotReload took 867.1s.
+[2020.11.23-05.06.35:720][705]Warning: HotReload operation took 867.2s.
+[2020.11.23-05.08.02:610][705]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.11.23-05.08.23:025][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.23-05.08.43:961][705]LogHotReload: New module detected: UE4Editor-FirstCPP-2310.dll
+[2020.11.23-05.08.57:301][705]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.08.59:596][706]LogHotReload: Starting Hot-Reload from IDE
+[2020.11.23-05.09.01:030][706]LogContentBrowser: Native class hierarchy updated for 'FirstCPP' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2020.11.23-05.09.01:031][706]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.11.23-05.09.01:175][706]LogContentBrowser: Native class hierarchy populated in 0.0128 seconds. Added 3429 classes and 823 folders.
+[2020.11.23-05.09.01:221][706]Display: HotReload took  1.5s.
+[2020.11.23-05.09.05:120][706]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.33.07:343][959]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.11.23-05.35.58:187][335]Candidate modules for hot reload:
+[2020.11.23-05.35.58:187][335]  FirstCPP
+[2020.11.23-05.35.59:795][335]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FirstCPP,1336 FirstCPPEditor Win64 Development -Project="C:/Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/FirstCPP.uproject" "C:/Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/FirstCPP.uproject"  -IgnoreJunk]
+[2020.11.23-05.36.01:692][335]Warning: Starting HotReload took 37.2s.
+[2020.11.23-05.36.41:711][335]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.36.41:753][335]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.36.41:753][335]LogTemp: Resetting audio stream to device id 
+[2020.11.23-05.37.17:537][335]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-05.37.17:537][335]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-05.37.57:956][335]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.38.00:164][336]LogTemp: Resetting audio stream to device id 
+[2020.11.23-05.38.01:097][336]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-05.38.01:097][336]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-05.38.02:699][337]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.38.02:926][337]LogTemp: Resetting audio stream to device id 
+[2020.11.23-05.38.03:645][337]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-05.38.03:645][337]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-05.38.32:840][808]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.38.32:840][808]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.38.32:840][808]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.38.32:840][808]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.38.32:840][808]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.38.32:840][808]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.38.32:840][808]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.38.32:840][808]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.38.32:840][808]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.38.32:840][808]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.38.38:260][809]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.38.47:289][816]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.39.05:810][897]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-05.58.38:643][488]CompilerResultsLog: New page: Compilation - Nov 22, 2020, 5:58:37 PM
+[2020.11.23-05.58.38:843][488]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Khush\Documents\GitHub\Guzman_BallMaze).
+[2020.11.23-05.58.38:844][488]CompilerResultsLog: Parsing headers for FirstCPPEditor
+[2020.11.23-05.58.38:844][488]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\FirstCPP.uproject" "C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\FirstCPPEditor\Development\FirstCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Khush\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.11.23-05.58.38:844][488]CompilerResultsLog: Reflection code generated for FirstCPPEditor in 445.8700172 seconds
+[2020.11.23-05.58.38:844][488]CompilerResultsLog: Building FirstCPPEditor...
+[2020.11.23-05.58.38:844][488]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.23-05.58.38:844][488]CompilerResultsLog: Building 5 actions with 8 processes...
+[2020.11.23-05.58.38:844][488]CompilerResultsLog:   [1/5] BasePlayer.gen.cpp
+[2020.11.23-05.58.38:845][488]CompilerResultsLog:   [2/5] BasePlayer.cpp
+[2020.11.23-05.58.38:845][488]CompilerResultsLog:   [3/5] UE4Editor-FirstCPP-1336.lib
+[2020.11.23-05.58.38:845][488]CompilerResultsLog:      Creating library C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\UE4Editor-FirstCPP-1336.lib and object C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\UE4Editor-FirstCPP-1336.exp
+[2020.11.23-05.58.38:845][488]CompilerResultsLog:   [4/5] UE4Editor-FirstCPP-1336.dll
+[2020.11.23-05.58.38:845][488]CompilerResultsLog:      Creating library C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\UE4Editor-FirstCPP-1336.suppressed.lib and object C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\UE4Editor-FirstCPP-1336.suppressed.exp
+[2020.11.23-05.58.38:845][488]CompilerResultsLog:   [5/5] FirstCPPEditor.target
+[2020.11.23-05.58.38:845][488]CompilerResultsLog: Total time in Parallel executor: 748.62 seconds
+[2020.11.23-05.58.38:845][488]CompilerResultsLog: Total execution time: 1310.18 seconds
+[2020.11.23-05.58.39:079][488]LogMainFrame: MainFrame: Module compiling took 1383.232 seconds
+[2020.11.23-05.58.50:949][488]LogContentBrowser: Native class hierarchy updated for 'FirstCPP' in 0.2972 seconds. Added 2 classes and 2 folders.
+[2020.11.23-05.58.50:995][488]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.11.23-05.59.04:520][488]LogContentBrowser: Native class hierarchy populated in 1.0419 seconds. Added 3429 classes and 823 folders.
+[2020.11.23-05.59.04:574][488]Display: HotReload took 1420.1s.
+[2020.11.23-05.59.05:827][489]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-08.33.59:393][260]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-08.34.16:344][260]LogTemp: Resetting audio stream to device id 
+[2020.11.23-08.34.40:899][260]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-08.34.40:899][260]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-08.34.53:110][261]LogTemp: Resetting audio stream to device id 
+[2020.11.23-08.34.57:361][261]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-08.34.57:361][261]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-08.34.58:049][262]LogTemp: Resetting audio stream to device id 
+[2020.11.23-08.34.58:290][262]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-08.34.58:290][262]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-08.35.00:189][263]LogTemp: Resetting audio stream to device id 
+[2020.11.23-08.35.00:972][263]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-08.35.00:972][263]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.05.41:130][745]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-10.29.19:376][397]Candidate modules for hot reload:
+[2020.11.23-10.29.19:377][397]  FirstCPP
+[2020.11.23-10.29.21:008][397]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FirstCPP,2495 FirstCPPEditor Win64 Development -Project="C:/Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/FirstCPP.uproject" "C:/Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/FirstCPP.uproject"  -IgnoreJunk]
+[2020.11.23-10.29.22:316][397]Warning: Starting HotReload took 17.3s.
+[2020.11.23-10.29.54:728][397]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-10.29.55:135][397]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-10.30.01:615][400]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.23-10.41.37:095][351]CompilerResultsLog: New page: Compilation - Nov 22, 2020, 10:41:35 PM
+[2020.11.23-10.41.38:261][351]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Khush\Documents\GitHub\Guzman_BallMaze).
+[2020.11.23-10.41.38:261][351]CompilerResultsLog: Parsing headers for FirstCPPEditor
+[2020.11.23-10.41.38:261][351]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\FirstCPP.uproject" "C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\FirstCPPEditor\Development\FirstCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Khush\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.11.23-10.41.38:262][351]CompilerResultsLog: Reflection code generated for FirstCPPEditor in 329.0504869 seconds
+[2020.11.23-10.41.38:262][351]CompilerResultsLog: Building FirstCPPEditor...
+[2020.11.23-10.41.38:262][351]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.23-10.41.38:262][351]CompilerResultsLog: Building 6 actions with 8 processes...
+[2020.11.23-10.41.38:262][351]CompilerResultsLog:   [1/6] BasePlayer.cpp
+[2020.11.23-10.41.38:262][351]CompilerResultsLog:   [2/6] BasePlayer.gen.cpp
+[2020.11.23-10.41.38:262][351]CompilerResultsLog:   [3/6] FirstCPP.init.gen.cpp
+[2020.11.23-10.41.38:262][351]CompilerResultsLog:   [4/6] UE4Editor-FirstCPP-2495.lib
+[2020.11.23-10.41.38:320][351]CompilerResultsLog:      Creating library C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\UE4Editor-FirstCPP-2495.lib and object C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\UE4Editor-FirstCPP-2495.exp
+[2020.11.23-10.41.38:320][351]CompilerResultsLog:   [5/6] UE4Editor-FirstCPP-2495.dll
+[2020.11.23-10.41.38:320][351]CompilerResultsLog:      Creating library C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\UE4Editor-FirstCPP-2495.suppressed.lib and object C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\UE4Editor-FirstCPP-2495.suppressed.exp
+[2020.11.23-10.41.38:320][351]CompilerResultsLog:   [6/6] FirstCPPEditor.target
+[2020.11.23-10.41.38:320][351]CompilerResultsLog: Total time in Parallel executor: 304.31 seconds
+[2020.11.23-10.41.38:320][351]CompilerResultsLog: Total execution time: 725.75 seconds
+[2020.11.23-10.41.38:514][351]LogMainFrame: MainFrame: Module compiling took 748.610 seconds
+[2020.11.23-10.41.49:946][351]LogClass: Could not find existing class BasePlayer in package /Script/FirstCPP for HotReload, assuming new class
+[2020.11.23-10.41.53:411][351]LogHotReload: Re-instancing BasePlayer after hot-reload.
+[2020.11.23-10.42.02:491][351]LogContentBrowser: Native class hierarchy updated for 'FirstCPP' in 0.4597 seconds. Added 2 classes and 2 folders.
+[2020.11.23-10.42.02:525][351]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.11.23-10.42.12:431][351]LogContentBrowser: Native class hierarchy populated in 0.4992 seconds. Added 3429 classes and 823 folders.
+[2020.11.23-10.42.12:608][351]Display: HotReload took 787.6s.
+[2020.11.23-11.26.47:408][463]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.11.23-11.27.30:977][463]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.11.23-11.28.37:912][147]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bpBasePlayer.bpBasePlayer
+[2020.11.23-11.29.11:862][147]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 125 classes and 0 folders.
+[2020.11.23-11.29.43:229][147]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2020.11.23-11.29.44:882][147]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.11.23-11.29.49:392][147]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.11.23-11.29.49:392][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.11.23-11.29.49:392][147]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.11.23-11.29.52:550][147]LogMaterial: Display: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2020.11.23-11.30.11:704][147]LogRenderer: Reallocating scene render targets to support 964x544 Format 10 NumSamples 1 (Frame:1).
+[2020.11.23-11.30.29:549][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2020.11.23-11.30.31:008][148]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.11.23-11.30.40:219][166]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.11.23-11.30.40:219][166]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.11.23-11.30.40:220][166]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.11.23-11.30.40:220][166]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.11.23-11.30.41:604][168]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.11.23-11.30.41:823][168]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.11.23-11.30.43:517][211]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.11.23-11.33.03:403][838]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2020.11.23-11.33.03:782][838]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.23-11.33.03:782][838]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.23-11.33.03:782][838]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.23-11.33.03:782][838]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.23-11.33.40:735][547]LogMaterial: Display: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2020.11.23-11.33.41:060][547]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.23-11.33.41:061][547]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.23-11.33.41:061][547]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.23-11.33.41:061][547]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.23-11.33.51:843][731]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2020.11.23-11.33.52:837][732]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.23-11.33.52:837][732]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.23-11.33.52:837][732]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.23-11.33.52:837][732]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.23-11.34.08:958][103]LogMaterial: Display: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2020.11.23-11.34.09:039][103]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.11.23-11.34.09:039][103]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.11.23-11.34.09:039][103]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.11.23-11.34.09:039][103]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.23-11.34.56:895][790]BlueprintLog: New page: Compile bpBasePlayer
+[2020.11.23-11.35.03:509][790]LogUObjectHash: Compacting FUObjectHashTables data took 758.54ms
+[2020.11.23-11.35.14:975][790]LogSlate: Took 0.426307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.11.23-11.35.18:538][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpBasePlayer" FILE="../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Content/bpBasePlayer.uasset" SILENT=true
+[2020.11.23-11.35.20:080][862]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Saved/bpBasePlayer6824879942CE3C568B9D3096E977A433.tmp' to '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Content/bpBasePlayer.uasset'
+[2020.11.23-11.35.20:671][862]AssetCheck: New page: Asset Save: bpBasePlayer
+[2020.11.23-11.35.20:671][862]LogContentValidation: Display: Validating Blueprint /Game/bpBasePlayer.bpBasePlayer
+[2020.11.23-11.35.58:262][986]LogSlate: Took 0.351500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.23-11.37.27:446][930]BlueprintLog: New page: Compile bpBasePlayer
+[2020.11.23-11.37.28:777][930]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.11.23-11.37.30:105][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpBasePlayer" FILE="../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Content/bpBasePlayer.uasset" SILENT=true
+[2020.11.23-11.37.30:295][971]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Saved/bpBasePlayer9405387047CFA106EEFA8B9EE4DFB21E.tmp' to '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Content/bpBasePlayer.uasset'
+[2020.11.23-11.37.30:318][971]AssetCheck: New page: Asset Save: bpBasePlayer
+[2020.11.23-11.37.30:318][971]LogContentValidation: Display: Validating Blueprint /Game/bpBasePlayer.bpBasePlayer
+[2020.11.23-11.38.18:941][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpBasePlayer" FILE="../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Content/bpBasePlayer.uasset" SILENT=true
+[2020.11.23-11.38.19:341][407]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Saved/bpBasePlayer0874ACE64F06D704A2583494E7BBFEAB.tmp' to '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Content/bpBasePlayer.uasset'
+[2020.11.23-11.38.19:363][407]AssetCheck: New page: Asset Save: bpBasePlayer
+[2020.11.23-11.38.19:363][407]LogContentValidation: Display: Validating Blueprint /Game/bpBasePlayer.bpBasePlayer
+[2020.11.23-11.38.33:838][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2020.11.23-11.38.37:783][258]Cmd: DELETE
+[2020.11.23-11.38.37:807][258]Cmd: ACTOR DELETE
+[2020.11.23-11.38.39:808][258]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.23-11.38.40:240][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.11.23-11.38.40:446][258]LogEditorActor: Deleted 1 Actors (1.101 secs)
+[2020.11.23-11.38.41:544][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.11.23-11.38.42:225][310]Cmd: DELETE
+[2020.11.23-11.38.42:225][310]Cmd: ACTOR DELETE
+[2020.11.23-11.38.42:395][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.23-11.38.42:428][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.11.23-11.38.42:429][310]LogEditorActor: Deleted 1 Actors (0.204 secs)
+[2020.11.23-11.38.43:254][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.11.23-11.38.43:493][366]Cmd: DELETE
+[2020.11.23-11.38.43:493][366]Cmd: ACTOR DELETE
+[2020.11.23-11.38.43:494][366]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.23-11.38.43:527][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.11.23-11.38.43:530][366]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.11.23-11.38.45:825][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2020.11.23-11.38.47:529][587]Cmd: DELETE
+[2020.11.23-11.38.47:529][587]Cmd: ACTOR DELETE
+[2020.11.23-11.38.47:531][587]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.23-11.38.47:558][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.11.23-11.38.47:560][587]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.11.23-11.39.21:993][ 56]BlueprintLog: New page: Compile bpBasePlayer
+[2020.11.23-11.39.26:877][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.11.23-11.39.27:727][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpBasePlayer" FILE="../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Content/bpBasePlayer.uasset" SILENT=true
+[2020.11.23-11.39.27:957][ 81]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Saved/bpBasePlayer5C3E93FE4EB8EBA41B1862B83AD1C466.tmp' to '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Content/bpBasePlayer.uasset'
+[2020.11.23-11.39.27:976][ 81]AssetCheck: New page: Asset Save: bpBasePlayer
+[2020.11.23-11.39.27:976][ 81]LogContentValidation: Display: Validating Blueprint /Game/bpBasePlayer.bpBasePlayer
+[2020.11.23-11.40.00:371][451]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.11.23-11.40.01:257][451]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Saved/Minimal_Default_Auto187EE4669418D5CAD09A62B97F92705AC.tmp' to '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2020.11.23-11.40.01:304][451]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.974
+[2020.11.23-11.40.01:311][451]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.974
+[2020.11.23-11.40.32:945][728]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.11.23-11.40.34:503][728]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.11.23-11.40.41:986][130]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bpGameModeTest.bpGameModeTest
+[2020.11.23-11.40.48:526][279]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.23-11.41.00:104][746]BlueprintLog: New page: Compile bpGameModeTest
+[2020.11.23-11.41.00:274][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.11.23-11.41.01:604][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpGameModeTest" FILE="../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Content/bpGameModeTest.uasset" SILENT=true
+[2020.11.23-11.41.01:727][788]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Saved/bpGameModeTestD8C295174F405AA340DE2C9B3DDDD340.tmp' to '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Content/bpGameModeTest.uasset'
+[2020.11.23-11.41.01:972][788]AssetCheck: New page: Asset Save: bpGameModeTest
+[2020.11.23-11.41.01:972][788]LogContentValidation: Display: Validating Blueprint /Game/bpGameModeTest.bpGameModeTest
+[2020.11.23-11.41.47:188][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.11.23-11.41.49:943][673]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.23-11.41.51:339][754]LogEditorViewport: Clicking on Actor (LMB): bpBasePlayer_C (bpBasePlayer)
+[2020.11.23-11.41.53:068][759]Cmd: DELETE
+[2020.11.23-11.41.53:068][759]Cmd: ACTOR DELETE
+[2020.11.23-11.41.53:070][759]LogEditorActor: Deleted Actor: bpBasePlayer_C
+[2020.11.23-11.41.53:189][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.11.23-11.41.53:346][759]LogEditorActor: Deleted 1 Actors (0.278 secs)
+[2020.11.23-11.42.53:759][466]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.23-11.43.19:182][447]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.11.23-11.43.19:571][447]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Saved/Minimal_Default6738748F4DE1D72A2FDA0CA79D6DD1E5.tmp' to '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.11.23-11.43.22:377][447]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Saved/Minimal_Default_BuiltData1641EFC143ABF6F731FACCB0D30E604D.tmp' to '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.11.23-11.43.22:933][447]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.23-11.43.22:933][447]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.11.23-11.43.22:933][447]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.11.23-11.43.31:070][867]Candidate modules for hot reload:
+[2020.11.23-11.43.31:070][867]  FirstCPP
+[2020.11.23-11.43.31:070][867]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FirstCPP,5033 FirstCPPEditor Win64 Development -Project="C:/Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/FirstCPP.uproject" "C:/Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/FirstCPP.uproject"  -IgnoreJunk]
+[2020.11.23-11.43.31:087][867]Warning: Starting HotReload took  0.9s.
+[2020.11.23-11.44.17:846][796]LogRenderer: Reallocating scene render targets to support 984x544 Format 10 NumSamples 1 (Frame:48410).
+[2020.11.23-11.44.17:965][797]LogRenderer: Reallocating scene render targets to support 996x544 Format 10 NumSamples 1 (Frame:48412).
+[2020.11.23-11.44.18:126][798]LogRenderer: Reallocating scene render targets to support 1000x544 Format 10 NumSamples 1 (Frame:48414).
+[2020.11.23-11.44.19:389][799]LogRenderer: Reallocating scene render targets to support 1004x544 Format 10 NumSamples 1 (Frame:48416).
+[2020.11.23-11.44.22:063][828]LogRenderer: Reallocating scene render targets to support 1024x544 Format 10 NumSamples 1 (Frame:48422).
+[2020.11.23-11.44.22:128][829]LogRenderer: Reallocating scene render targets to support 1028x544 Format 10 NumSamples 1 (Frame:48424).
+[2020.11.23-11.44.22:389][830]LogRenderer: Reallocating scene render targets to support 1032x544 Format 10 NumSamples 1 (Frame:48426).
+[2020.11.23-11.44.22:511][831]LogRenderer: Reallocating scene render targets to support 1052x544 Format 10 NumSamples 1 (Frame:48427).
+[2020.11.23-11.44.22:872][832]LogRenderer: Reallocating scene render targets to support 1064x544 Format 10 NumSamples 1 (Frame:48429).
+[2020.11.23-11.44.23:014][833]LogRenderer: Reallocating scene render targets to support 1100x544 Format 10 NumSamples 1 (Frame:48430).
+[2020.11.23-11.44.23:419][834]LogRenderer: Reallocating scene render targets to support 1108x544 Format 10 NumSamples 1 (Frame:48432).
+[2020.11.23-11.44.23:490][835]LogRenderer: Reallocating scene render targets to support 1140x544 Format 10 NumSamples 1 (Frame:48433).
+[2020.11.23-11.44.24:407][836]LogRenderer: Reallocating scene render targets to support 1148x544 Format 10 NumSamples 1 (Frame:48435).
+[2020.11.23-11.44.24:485][837]LogRenderer: Reallocating scene render targets to support 1192x544 Format 10 NumSamples 1 (Frame:48436).
+[2020.11.23-11.45.03:562][904]CompilerResultsLog: New page: Compilation - Nov 22, 2020, 11:45:03 PM
+[2020.11.23-11.45.03:562][904]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Khush\Documents\GitHub\Guzman_BallMaze).
+[2020.11.23-11.45.03:562][904]CompilerResultsLog: Building FirstCPPEditor...
+[2020.11.23-11.45.03:562][904]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.23-11.45.03:562][904]CompilerResultsLog: Building 3 actions with 8 processes...
+[2020.11.23-11.45.03:562][904]CompilerResultsLog:   [1/3] UE4Editor-FirstCPP-5033.lib
+[2020.11.23-11.45.03:562][904]CompilerResultsLog:      Creating library C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\UE4Editor-FirstCPP-5033.lib and object C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\UE4Editor-FirstCPP-5033.exp
+[2020.11.23-11.45.03:562][904]CompilerResultsLog:   [2/3] UE4Editor-FirstCPP-5033.dll
+[2020.11.23-11.45.03:780][904]CompilerResultsLog:      Creating library C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\UE4Editor-FirstCPP-5033.suppressed.lib and object C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\UE4Editor-FirstCPP-5033.suppressed.exp
+[2020.11.23-11.45.03:780][904]CompilerResultsLog:   [3/3] FirstCPPEditor.target
+[2020.11.23-11.45.03:780][904]CompilerResultsLog: Total time in Parallel executor: 25.67 seconds
+[2020.11.23-11.45.03:780][904]CompilerResultsLog: Total execution time: 89.63 seconds
+[2020.11.23-11.45.03:780][904]LogMainFrame: MainFrame: Module compiling took 93.014 seconds
+[2020.11.23-11.45.05:823][904]LogContentBrowser: Native class hierarchy updated for 'FirstCPP' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2020.11.23-11.45.05:834][904]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.11.23-11.45.08:448][904]LogContentBrowser: Native class hierarchy populated in 0.1889 seconds. Added 3429 classes and 823 folders.
+[2020.11.23-11.45.08:448][904]Display: HotReload took 98.3s.
+[2020.11.23-11.45.15:475][980]LogSlate: Window 'Project Settings' being destroyed
+[2020.11.23-11.45.15:482][980]LogSlate: Window 'Project Settings' being destroyed
+[2020.11.23-11.45.21:451][143]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2020.11.23-11.45.21:574][143]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Saved/Minimal_DefaultD266289149AEF9298CD71C829715ACF0.tmp' to '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.11.23-11.45.21:643][143]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Saved/Minimal_Default_BuiltData1B122E534D3BF8DA570ACBB7BB0D92EF.tmp' to '../../../../../../Users/Khush/Documents/GitHub/Guzman_BallMaze/FirstCPP/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.11.23-11.45.21:673][143]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.23-11.45.21:673][143]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.11.23-11.45.21:673][143]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData

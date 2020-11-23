@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\FirstCPP.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{D885D455-0C24-4E34-9510-A5DD5852E209}</UniqueIdentifier>
+      <UniqueIdentifier>{C515B00C-1834-44DF-8D97-E14BCCE5CFCD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\FirstCPP.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{880444D3-83FE-4CDC-9A36-2D28A0B8A9B8}</UniqueIdentifier>
+      <UniqueIdentifier>{C44F0095-DBA1-4E76-8EE4-6D74AB80AD6A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,8 +24,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\FirstCPP">
-      <UniqueIdentifier>{11546D87-337E-4936-9391-4429D97949BA}</UniqueIdentifier>
+      <UniqueIdentifier>{E5938264-8B08-442B-8289-AD73B16FF587}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\FirstCPP\BasePlayer.cpp">
+      <Filter>Source\FirstCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstCPP\BasePlayer.h">
+      <Filter>Source\FirstCPP</Filter>
+    </ClInclude>
     <None Include="..\..\Source\FirstCPP\FirstCPP.Build.cs">
       <Filter>Source\FirstCPP</Filter>
     </None>
