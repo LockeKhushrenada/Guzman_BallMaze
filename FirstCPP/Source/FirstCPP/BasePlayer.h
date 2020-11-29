@@ -37,4 +37,20 @@ public:
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
 	UCameraComponent* Camera;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	float moveSpeed;
+	
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	float rotSpeed;
+
+	void MoveForward(float value);
+	void MoveHorizontal(float value);
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	float jumpImpulse;
+	UFUNCTION(BlueprintImplementableEvent)
+	void Jump();
+	void RotateCameraHorizontal(float value);
+	void RotateCameraVertical(float value);
 };

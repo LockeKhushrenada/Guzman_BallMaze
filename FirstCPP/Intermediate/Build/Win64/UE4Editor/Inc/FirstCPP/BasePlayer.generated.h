@@ -16,6 +16,8 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FirstCPP_Source_FirstCPP_BasePlayer_h_15_SPARSE_DATA
 #define FirstCPP_Source_FirstCPP_BasePlayer_h_15_RPC_WRAPPERS
 #define FirstCPP_Source_FirstCPP_BasePlayer_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define FirstCPP_Source_FirstCPP_BasePlayer_h_15_EVENT_PARMS
+#define FirstCPP_Source_FirstCPP_BasePlayer_h_15_CALLBACK_WRAPPERS
 #define FirstCPP_Source_FirstCPP_BasePlayer_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABasePlayer(); \
@@ -59,13 +61,17 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABasePlayer); \
 
 
 #define FirstCPP_Source_FirstCPP_BasePlayer_h_15_PRIVATE_PROPERTY_OFFSET
-#define FirstCPP_Source_FirstCPP_BasePlayer_h_12_PROLOG
+#define FirstCPP_Source_FirstCPP_BasePlayer_h_12_PROLOG \
+	FirstCPP_Source_FirstCPP_BasePlayer_h_15_EVENT_PARMS
+
+
 #define FirstCPP_Source_FirstCPP_BasePlayer_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	FirstCPP_Source_FirstCPP_BasePlayer_h_15_PRIVATE_PROPERTY_OFFSET \
 	FirstCPP_Source_FirstCPP_BasePlayer_h_15_SPARSE_DATA \
 	FirstCPP_Source_FirstCPP_BasePlayer_h_15_RPC_WRAPPERS \
+	FirstCPP_Source_FirstCPP_BasePlayer_h_15_CALLBACK_WRAPPERS \
 	FirstCPP_Source_FirstCPP_BasePlayer_h_15_INCLASS \
 	FirstCPP_Source_FirstCPP_BasePlayer_h_15_STANDARD_CONSTRUCTORS \
 public: \
@@ -78,6 +84,7 @@ public: \
 	FirstCPP_Source_FirstCPP_BasePlayer_h_15_PRIVATE_PROPERTY_OFFSET \
 	FirstCPP_Source_FirstCPP_BasePlayer_h_15_SPARSE_DATA \
 	FirstCPP_Source_FirstCPP_BasePlayer_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FirstCPP_Source_FirstCPP_BasePlayer_h_15_CALLBACK_WRAPPERS \
 	FirstCPP_Source_FirstCPP_BasePlayer_h_15_INCLASS_NO_PURE_DECLS \
 	FirstCPP_Source_FirstCPP_BasePlayer_h_15_ENHANCED_CONSTRUCTORS \
 private: \
