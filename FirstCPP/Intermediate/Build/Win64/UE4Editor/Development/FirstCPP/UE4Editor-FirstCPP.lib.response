@@ -10,9 +10,11 @@
 "C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\BasePlayer.cpp.obj"
 "C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\FirstCPP.cpp.obj"
 "C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\FirstCPPGameModeBase.cpp.obj"
+"C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\Item.cpp.obj"
 "C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\BasePlayer.gen.cpp.obj"
 "C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\FirstCPP.init.gen.cpp.obj"
 "C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\FirstCPPGameModeBase.gen.cpp.obj"
+"C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\Item.gen.cpp.obj"
 "C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\Default.rc2.res"
 /OUT:"C:\Users\Khush\Documents\GitHub\Guzman_BallMaze\FirstCPP\Intermediate\Build\Win64\UE4Editor\Development\FirstCPP\UE4Editor-FirstCPP.lib"
 /INCLUDE:IMPLEMENT_MODULE_FirstCPP

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\FirstCPP.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{C515B00C-1834-44DF-8D97-E14BCCE5CFCD}</UniqueIdentifier>
+      <UniqueIdentifier>{F4F0DAFB-D3BA-467B-8584-638304450442}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\FirstCPP.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{C44F0095-DBA1-4E76-8EE4-6D74AB80AD6A}</UniqueIdentifier>
+      <UniqueIdentifier>{0446E069-A197-455F-BD6A-BE2DA3533771}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +23,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\FirstCPP">
-      <UniqueIdentifier>{E5938264-8B08-442B-8289-AD73B16FF587}</UniqueIdentifier>
+      <UniqueIdentifier>{3E835C3B-C79C-4DB9-B17B-5A79680F97F1}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\FirstCPP\BasePlayer.cpp">
       <Filter>Source\FirstCPP</Filter>
@@ -45,6 +48,12 @@
       <Filter>Source\FirstCPP</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\FirstCPP\FirstCPPGameModeBase.h">
+      <Filter>Source\FirstCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstCPP\Item.cpp">
+      <Filter>Source\FirstCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstCPP\Item.h">
       <Filter>Source\FirstCPP</Filter>
     </ClInclude>
   </ItemGroup>
